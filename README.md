@@ -1,6 +1,6 @@
 # pdfsail 🚢
 
-**[pdfsail]** is an open-source PDF processing library designed to simplify operations, parsing, and conversion of PDF files. Whether you need to convert a PDF to another format or extract information from a PDF, **pdfsail** makes it easy.
+**[pdfsail](https://www.pdfsail.com/)** is an open-source PDF processing library designed to simplify operations, parsing, and conversion of PDF files. Whether you need to convert a PDF to another format or extract information from a PDF, **pdfsail** makes it easy.
 
 ## 🚀 Features
 
